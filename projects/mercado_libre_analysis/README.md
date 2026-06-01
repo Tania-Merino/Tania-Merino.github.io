@@ -1,11 +1,3 @@
-# Tania-Merino.github.io
-# Tania Merino
-
-## Junior Data Analyst
-
-Aspiring Data Analyst with experience in business operations, reporting, customer service and education.
-
-My portfolio showcases projects completed during an intensive Data Analytics Bootcamp, demonstrating my growth in SQL, Excel, Python, data visualization, exploratory analysis, and business intelligence.
 
 
 ### Technical Skills
@@ -55,8 +47,6 @@ This project strengthened my ability to:
 - Translate data into business recommendations.
 - Communicate findings to non-technical stakeholders.
 - Manage time effectively towards project completion objectives.
-
-
 
 ### Contact
 
