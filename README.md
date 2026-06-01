@@ -10,7 +10,7 @@ Aspiring Data Analyst with experience in business operations, reporting, and dat
 
 Analyzed the relationship between traffic congestion and urban economic performance using OECD and TomTom data.
 
-[View Project](./projects/urban-mobility-analysis/)
+[View Project](./projects/latam_movility/)
 
 ---
 
@@ -18,4 +18,4 @@ Analyzed the relationship between traffic congestion and urban economic performa
 
 Identified user drop-off points and retention patterns to support conversion optimization.
 
-[View Project](./projects/mercadolibre-funnel-analysis/)
+[View Project](./projects/mercado_libre_analysis/)
