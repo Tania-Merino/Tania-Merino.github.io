@@ -57,10 +57,6 @@ This project strengthened my ability to:
 - Manage time effectively towards project completion objectives.
 
 
-### Professional Experience
-
-- English Teacher (University)
-
 
 ### Contact
 
