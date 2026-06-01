@@ -32,3 +32,7 @@ Analyzed the relationship between traffic congestion and urban economic performa
 Identified user drop-off points and retention patterns to support conversion optimization.
 
 [View Project](./projects/mercado_libre_analysis/)
+
+**CONTACT:**
+E-mail: mercytan315@gmail.com
+LinkedIn: [Insertar link]
