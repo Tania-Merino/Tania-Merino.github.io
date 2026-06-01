@@ -34,5 +34,6 @@ Identified user drop-off points and retention patterns to support conversion opt
 [View Project](./projects/mercado_libre_analysis/)
 
 **CONTACT:**
-E-mail: mercytan315@gmail.com
-LinkedIn: [Insertar link]
+
+- E-mail: mercytan315@gmail.com
+- LinkedIn: [Insertar link]
